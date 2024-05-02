@@ -5,6 +5,8 @@ Webmin est un outil de configuration système basé sur le web conçu pour simpl
 
 ![image](https://duckduckgo.com/i/056fc676.png)
 
+https://webmin.com/
+
 ## Téléchargement et Installation de Webmin
 - Avant de commencer à installer Webmin, assurez-vous de mettre à jour le système et d'installer les prérequis nécessaires :
 
@@ -32,5 +34,9 @@ sudo ufw allow 10000/tcp
 - Démarrez le service Webmin et accédez à l'interface Webmin en saisissant l'URL suivante dans votre navigateur :
 
 https:// Your-Server-IP :10000
+
+![image](https://webmin.com/images/screenshots/dark/1-dashboard.png)
+
+
 
 
