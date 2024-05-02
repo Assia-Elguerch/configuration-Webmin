@@ -3,7 +3,7 @@
 ## Introduction à Webmin
 Webmin est un outil de configuration système basé sur le web conçu pour simplifier la gestion des serveurs Unix et Linux. Il fournit une interface conviviale permettant aux administrateurs système de configurer et de gérer divers aspects du système, tels que les utilisateurs, les services, les pare-feu, les fichiers de configuration et bien plus encore, à travers un navigateur web.
 
-![image](![image](https://duckduckgo.com/i/056fc676.png)
+![image](https://duckduckgo.com/i/056fc676.png)
 
 ## Téléchargement et Installation de Webmin
 - Avant de commencer à installer Webmin, assurez-vous de mettre à jour le système et d'installer les prérequis nécessaires :
