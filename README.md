@@ -33,6 +33,10 @@ sudo ufw allow 10000/tcp
 ```
 - Démarrez le service Webmin et accédez à l'interface Webmin en saisissant l'URL suivante dans votre navigateur :
 
+```bash
+sudo systemctl start webmin.service
+```
+
 https:// Your-Server-IP :10000
 
 ![image](https://webmin.com/images/screenshots/dark/1-dashboard.png)
